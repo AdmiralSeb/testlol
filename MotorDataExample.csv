@@ -1,0 +1,9 @@
+AccountNumber,PolicyNumber,FirstName,LastName,Age,Email,EmploymentType,MaritalStatus,Postcode,ContactEmailPermission
+00000004354,P60002456,Jacky,Wallace,32,Jacky.Wallace@admiralgroup.co.uk,Employed,Married,L85TE,Yes
+00000004353,P60002455,Jerry,Franklin,27,Jerry.Franklin@admiralgroup.co.uk,Employed,Single,LE40RH,Yes
+00000004351,P60002459,James,Matthews,37,James.Matthews@admiralgroup.co.uk,Unemployed,Married,CF119NR,Yes
+00000004358,P60002422,Andrew,Smith,29,Andrew.Smith@admiralgroup.co.uk,Employed,Married,CF119NR,Yes
+00000004332,P60002421,Tom,Baker,31,Andrew.Smith@admiralgroup.co.uk,Employed,Married,CF101BG,No
+00000004101,P60002271,Priscilla,Jones,22,Priscilla.Jones@admiralgroup.co.uk,Employed,Married,CF101EZ,Yes
+00000004104,P60002229,Kirsty,Mackett,31,Kirsty.Mackett@admiralgroup.co.uk,Unemployed,Married,CF119BZ,Yes
+00000004127,P60002234,Rachael,Heelan,20,Rachael.Heelan@admiralgroup.co.uk,Unemployed,Single,CF105NE,No
